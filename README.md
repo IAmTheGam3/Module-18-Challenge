@@ -1,1 +1,2 @@
 # Module-18-Challenge
+Since the data I downloaded was too large to put into a repo, I have included instructions on how to get my data. First, click the link in "2013-citibike-tripdata" and download the file "2013-citibike-tripdata.zip" and take the csv files and put them in the "2013-citibike-tripdata" file. Then run the jupiter notebook file in "concatenator" to get the dataset I used to manipulate in tableau.
